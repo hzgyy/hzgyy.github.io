@@ -26,12 +26,13 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rl.gif' alt="sym" width="50%"><img src='images/rl.gif' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/rl.gif' alt="sym" width="50%"><img src='images/rlplot.png' alt="sym" width="50%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 <strong>Reinforcement Learning Algotithms Implementation</strong>
-- This belongs to course projects of Cornell CS4756(robot learning) and CS4789(Introduction to Reinforcement Learning).
-- In these projects
+- This project is part of the course assignments for Cornell CS4756 (Robot Learning) and CS4789 (Introduction to Reinforcement Learning).
+- I tackled demo tasks in OpenAI Gym environments, including Cartpole, LunarLander, and Fetch-Reach. I implemented several classic RL algorithms, such as Q-learning, DQN, Policy Gradient (REINFORCE), Actor-Critic (A2C, SAC), DDPG, and more. Additionally, I analyzed the performance of these algorithms.
+- Through this project, I gained hands-on experience with Pytorch and Numpy, while also learning to identify common bugs and pitfalls in RL algorithm implementation.
 </div>
 </div>
 
@@ -44,7 +45,14 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/drone.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong>Quadropter Building and Autonomous Hovering</strong>
+- Build a quadrotor and its controller from zero, and automatically hover it under motion capture system
+- Implementing basic cascaded PID controller and SE(3) controller.
+- Practice hardware, PCB design and assembling.
+</div>
+</div>
 
 
 <!-- # 💻 Projects
