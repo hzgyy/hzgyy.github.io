@@ -30,10 +30,21 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 <div class='paper-box-text' markdown="1">
 <strong>Reinforcement Learning Algotithms Implementation</strong>
 - This belongs to course projects of Cornell CS4756(robot learning) and CS4789(Introduction to Reinforcement Learning).
+- In these projects
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/drone.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<strong>Quadropter Building and Autonomous Hovering</strong>
+- Build a quadrotor and its controller from zero, and automatically hover it under motion capture system
+- Implementing basic cascaded PID controller and SE(3) controller.
+- Practice hardware, PCB design and assembling.
+</div>
+</div>
+
+
+
 
 <!-- # 💻 Projects
 
@@ -58,13 +69,13 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 - *2024.04* First Prize in Zhejiang University Robot Competition (Transport Vehicle Track) 
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
