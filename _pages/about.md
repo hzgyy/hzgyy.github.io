@@ -26,14 +26,17 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 <div class='paper-box-text' markdown="1"> -->
 
 
-
-
 # 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- Deep Reinforce Algorithms
-This is the course projects of Cornell CS4756 robot learning and CS4789 Introduction to Reinforcement Learning
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+- Reinforcement Learning Algorithms
+This is the course projects of Cornell CS4756 robot learning and CS4789 Introduction to Reinforcement Learning. 
+
+- Quadropter Building
+
+
 
 
 # 📖 Educations
@@ -46,9 +49,6 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 - *2024.04* First Prize in Zhejiang University Robot Competition (Transport Vehicle Track) 
 
 
-
-
-<!-- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,5 +57,5 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
