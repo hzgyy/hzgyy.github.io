@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. I am currently exchange at Cornell University. My research interests lie in the interplay of Control Theory, 
+My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. I am currently exchange at Cornell University. My research interests lie in the interplay of Control Theory and Machine Learning. Especially using novel date-driven methods like Reinforcement Learning to tackle hard control problem.
 
 
 
@@ -45,12 +45,12 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/drone.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hand.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<strong>Quadropter Building and Autonomous Hovering</strong>
-- Build a quadrotor and its controller from zero, and automatically hover it under motion capture system
-- Implementing basic cascaded PID controller and SE(3) controller.
-- Practice hardware, PCB design and assembling.
+<strong>Force Control of an Under-actuated Exoskeleton</strong>
+- Welding and assembling of magnetic encoder and exo-skeleton.
+- Implement basic robotics modelling methods like DH-Parameters,forward kinematics and Jacobean.
+- Using Field-Oriented-Control Method to control torque output of a BLDC motor.
 </div>
 </div>
 
