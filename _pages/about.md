@@ -26,7 +26,8 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rl.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/rl.gif' alt="sym" width="50%"><img src='images/rl.gif' alt="sym" width="50%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 <strong>Reinforcement Learning Algotithms Implementation</strong>
 - This belongs to course projects of Cornell CS4756(robot learning) and CS4789(Introduction to Reinforcement Learning).
