@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. I am currently exchange at Cornell University. My research interests lie in the interplay of Control Theory and Machine Learning. Especially using novel date-driven methods like Reinforcement Learning to tackle hard control problem.
+My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. I am currently exchanging at Cornell University. My research interests lie in the interplay of Control Theory and Machine Learning. Especially using novel date-driven methods like Reinforcement Learning to tackle hard control problem.
 **I am currently looking for summer research opportunity. Please contact me if you think I would be a good fit for an opportunity!**
 
 
