@@ -51,7 +51,7 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 <div class='paper-box-text' markdown="1">
 <strong>Force Control of an Under-actuated Exoskeleton</strong>
 - Welding and assembling of magnetic encoder and exo-skeleton.
-- Implement basic robotics modelling methods like DH-Parameters,forward kinematics and Jacobean.
+- Implement basic robotics modelling methods like DH-Parameters,forward kinematics and Jacobian.
 - Using Field-Oriented-Control Method to control torque output of a BLDC motor.
 </div>
 </div>
