@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. I am currently exchanging at Cornell University. My research interests lie in the interplay of Control Theory and Machine Learning. Especially using novel data-driven methods like Reinforcement Learning to tackle hard control problem.
+My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. I am currently exchanging at Cornell University. My research interests lie in the interplay of Control Theory and Machine Learning. Especially with application in Robotics.
 
 **I am currently looking for summer research opportunity. Please contact me if you think I would be a good fit for an opportunity!**
 
@@ -27,11 +27,12 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rl.gif' alt="sym" width="50%"><img src='images/cartpole.gif' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/film.png' alt="sym" width="50%"><img src='images/film_success_rate.png' alt="sym" width="50%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 <strong>A FiLM based Multi-task Reinforecement Learning</strong>
 - This project is part of the course assignments for Cornell CS4756 (Robot Learning).
+- Integreting Feature-wise Linear Transform layer into the multi-task rl model.
 - 
 </div>
 </div>
