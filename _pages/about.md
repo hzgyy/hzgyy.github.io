@@ -16,10 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. I am currently exchanging at Cornell University. My research interests lie in the interplay of Control Theory and Machine Learning. Especially with application in Robotics.
-
-**I am currently looking for summer research opportunity. Please contact me if you think I would be a good fit for an opportunity!**
-
+My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in Automation. My research interests lie in the interplay of Control Theory and Machine Learning, especially with application in Robotics. 
 
 
 <!-- # 📝 Publications 
@@ -33,7 +30,7 @@ My name is Yiyang Ge. I am a junior student in Zhejiang University majoring in A
 <strong>A FiLM based Multi-task Reinforecement Learning</strong>
 - This project is part of the course assignments for Cornell CS4756 (Robot Learning).
 - Integreting Feature-wise Linear Transform layer into the multi-task rl model.
-- 
+- The performance outperform 
 </div>
 </div>
 
@@ -81,8 +78,8 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 
 
 # 📖 Educations
-- *2019.06 - now*, Zhejiang University, Junior, Major: Automation 
-- *2025.01 - now*, Cornell University, Exchange student, Major: ECE
+- *2022.06 - now*, Zhejiang University, Junior, Major: Automation 
+- *2025.01 - 2025.05*, Cornell University, Exchange student, Major: ECE
 
 # 🎖 Honors and Awards
 - *2023.09* Second Prize Scholarship of Zhejiang University
