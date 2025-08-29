@@ -78,7 +78,7 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 
 
 # 📖 Educations
-- *2022.06 - now*, Zhejiang University, Junior, Major: Automation 
+- *2022.09 - now*, Zhejiang University, Junior, Major: Automation 
 - *2025.01 - 2025.05*, Cornell University, Exchange student, Major: ECE
 
 # 🎖 Honors and Awards
