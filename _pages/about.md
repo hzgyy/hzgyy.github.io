@@ -29,10 +29,11 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 
 <div class='paper-box-text' markdown="1">
 <strong>Towards Efficient Use of Demonstrations for Robot Manipulation Reinforcement Learning(on-going)</strong>
-- Explored methods to leverage limited demonstrations to improve the sample efficiency of online reinforcement learning in sparse-reward, real-world environments in this project.
+- Working with Junshan Zhang at UC Davis during 25 Summer.
+- Explored methods to leverage **limited demonstrations** to improve the sample efficiency of online reinforcement learning in **sparse-reward**, real-world environments in this project.
 - Designed a hierarchical RL framework with low-level action primitives and high-level modules for primitive and parameter selection.
 - Trained an encoder using Temporal-Cycle Consistency loss to capture temporal information. Trained a primitive predictor using imitation learning on top of that.
-- Trained the parameter selection model with reinforcement learning, try to leverage stage-wise output consistency(e.g., identical grasp parameters across positions within the grasping stage) to accelerate learning
+- Experimented under **Robosuite** environment
 </div>
 </div>
 
@@ -41,9 +42,9 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 
 <div class='paper-box-text' markdown="1">
 <strong>A FiLM based Multi-task Reinforecement Learning</strong>
-- This project is part of the course assignments for Cornell CS4756 (Robot Learning).
-- Integreting Feature-wise Linear Transform layer into the multi-task rl model.
-- The performance outperform 
+- This project was conducted as part of the course CS 4756: Robot Learning at Cornell University.
+- Integrated a Feature-wise Linear Modulation (FiLM) layer into a multi-task RL model, allowing the task encoding to exert more direct control over the network.
+- Observed that the FiLM-enabled model outperformed the vanilla multi-task learning baseline, which only concatenated a one-hot task encoding to the input.
 </div>
 </div>
 
