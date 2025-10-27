@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Yiyang Ge. I am a senior student in Zhejiang University majoring in Automation. My research interests lie in the robot learning, especially reinforcement learning, and with their application in robot manipulation. 
+My name is Yiyang Ge. I am a senior student in Zhejiang University majoring in Automation. 
 
+My research focuses on robot learning, with an emphasis on reinforcement learning. My long-term goal is to maximize the potential of learning-based methods in robotics — particularly their ability to generalize and adapt easily to new tasks.
 
 <!-- # 📝 Publications 
 
