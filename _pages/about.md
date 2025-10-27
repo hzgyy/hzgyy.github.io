@@ -95,7 +95,7 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 - *2025.01 - 2025.05*, Cornell University, Exchange student, Major: ECE
 
 # 🎖 Honors and Awards
-- *2023.09* Second Prize Scholarship of Zhejiang University
+- *2023,2025* Second Prize Scholarship of Zhejiang University
 - *2023.12* Second Prize of Theoretical Physics Competition for University Students in Zhejiang Province
 - *2024.04* First Prize in Zhejiang University Robot Competition (Transport Vehicle Track) 
 
