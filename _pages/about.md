@@ -48,17 +48,6 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rl.gif' alt="sym" width="50%"><img src='images/cartpole.gif' alt="sym" width="50%"></div></div>
-
-<div class='paper-box-text' markdown="1">
-<strong>Reinforcement Learning Algotithms Implementation</strong>
-- This project is part of the course assignments for Cornell CS4756 (Robot Learning) and CS4789 (Introduction to Reinforcement Learning).
-- I tackled demo tasks in OpenAI Gym environments, including Cartpole, LunarLander, and Fetch-Reach. I implemented several classic RL algorithms, such as Q-learning, DQN, Policy Gradient (REINFORCE), Actor-Critic (A2C, SAC), DDPG, and more. Additionally, I analyzed the performance of these algorithms.
-- Through this project, I gained hands-on experience with Pytorch and Numpy, while also learning to identify common bugs and pitfalls in RL algorithm implementation.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/drone.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>Quadropter Building and Autonomous Hovering</strong>
@@ -74,6 +63,16 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 - Welding and assembling of magnetic encoder and exo-skeleton.
 - Implement basic robotics modelling methods like DH-Parameters,forward kinematics and Jacobian.
 - Using Field-Oriented-Control Method to control torque output of a BLDC motor.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/rl.gif' alt="sym" width="50%"><img src='images/cartpole.gif' alt="sym" width="50%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+<strong>Reinforcement Learning Algotithms Implementation</strong>
+- This project is part of the course assignments for Cornell CS4756 (Robot Learning) and CS4789 (Introduction to Reinforcement Learning).
+- I tackled demo tasks in OpenAI Gym environments, including Cartpole, LunarLander, and Fetch-Reach. I implemented several classic RL algorithms, such as Q-learning, DQN, Policy Gradient (REINFORCE), Actor-Critic (A2C, SAC), DDPG, and more. Additionally, I analyzed the performance of these algorithms.
+- Through this project, I gained hands-on experience with Pytorch and Numpy, while also learning to identify common bugs and pitfalls in RL algorithm implementation.
 </div>
 </div>
 
