@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Yiyang Ge. I am a senior student in Zhejiang University majoring in Automation. My research interests lie in the robot learning, especially with reinforcement learning. 
+My name is Yiyang Ge. I am a senior student in Zhejiang University majoring in Automation. My research interests lie in the robot learning, especially reinforcement learning, and with their application in robot manipulation. 
 
 
 <!-- # 📝 Publications 
@@ -24,14 +24,14 @@ My name is Yiyang Ge. I am a senior student in Zhejiang University majoring in A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/myproj.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/myproj.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
-<strong>Towards Efficient Use of Demonstrations for Robot Manipulation Reinforcement Learning</strong>
+<strong>Towards Efficient Use of Demonstrations for Robot Manipulation Reinforcement Learning(on-going)</strong>
 - Explored methods to leverage limited demonstrations to improve the sample efficiency of online reinforcement learning in sparse-reward, real-world environments in this project.
 - Designed a hierarchical RL framework with low-level action primitives and high-level modules for primitive and parameter selection.
 - Trained an encoder using Temporal-Cycle Consistency loss to capture temporal information. Trained a primitive predictor using imitation learning on top of that.
-- Trained the parameter selection model with reinforcement learning, leveraging stage-wise output consistency(e.g., identical grasp parameters across positions within the grasping stage) to accelerate learning
+- Trained the parameter selection model with reinforcement learning, try to leverage stage-wise output consistency(e.g., identical grasp parameters across positions within the grasping stage) to accelerate learning
 </div>
 </div>
 
