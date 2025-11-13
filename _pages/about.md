@@ -25,14 +25,14 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/myproj.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tcc.png' alt="sym" width="150%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 <strong>Towards Efficient Use of Demonstrations for Robot Manipulation Reinforcement Learning(on-going)</strong>
 - Working with Junshan Zhang at UC Davis during 25 Summer.
 - Explored methods to leverage **limited demonstrations** to improve the sample efficiency of online reinforcement learning in **sparse-reward**, real-world environments in this project.
-- Designed a hierarchical RL framework with low-level action primitives and high-level modules for primitive and parameter selection.
-- Trained an encoder using Temporal-Cycle Consistency loss to capture temporal information. Trained a primitive predictor using imitation learning on top of that.
+- Developed an encoder pre-training framework using \textbf{Temporal Cycle-Consistency Loss} to learn action-aligned representations across different demonstration videos.
+- Integrated the learned encoder into RL by retrieving nearest demonstration states in the latent space and deriving a progress-based potential function to provide dense reward and to improve training efficiency.
 - Experimented under **Robosuite** environment
 </div>
 </div>
