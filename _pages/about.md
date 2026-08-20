@@ -25,7 +25,7 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/bachlar_thesis.gif' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/beng_thesis.gif' alt="sym" width="150%"></div></div>
 
 
 
