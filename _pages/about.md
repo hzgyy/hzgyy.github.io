@@ -25,15 +25,19 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tcc.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/bachlar_thesis.gif' alt="sym" width="150%"></div></div>
+
+
 
 <div class='paper-box-text' markdown="1">
-<strong>Towards Efficient Use of Demonstrations for Robot Manipulation Reinforcement Learning(on-going)</strong>
-- Working with Junshan Zhang at UC Davis during 25 Summer.
-- Explored methods to leverage **limited demonstrations** to improve the sample efficiency of online reinforcement learning in **sparse-reward**, real-world environments in this project.
-- Developed an encoder pre-training framework using \textbf{Temporal Cycle-Consistency Loss} to learn action-aligned representations across different demonstration videos.
-- Integrated the learned encoder into RL by retrieving nearest demonstration states in the latent space and deriving a progress-based potential function to provide dense reward and to improve training efficiency.
-- Experimented under **Robosuite** environment
+<strong>Research on Reward Model in Real-World Robot Reinforcement Learning</strong>
+- Investigated sample-efficient offline robot reinforcement learning using learned visual reward functions.
+- Fine-tuned a pretrained Valine-Implicit Pretraining(VIP) model with a small set of demonstrations to esti-
+mate task rewards.
+- Integrated the learned reward model with Reward-Weighted Regression (RWR) to enable offline policy
+improvement without manually designed rewards.
+- Evaluated the approach in ManiSkill and deployed it on an AgileX Piper robot arm for a real-world cube
+pick-and-place task
 </div>
 </div>
 
