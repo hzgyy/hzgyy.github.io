@@ -25,9 +25,20 @@ My research focuses on robot learning, with an emphasis on reinforcement learnin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 # 📝 Projects
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra_pipeline.jpg' alt="sym" width="150%"></div></div>
+
+
+
+<div class='paper-box-text' markdown="1">
+<strong>Vision-Initialized Manipulation with Image-Aligned Proprio-Tactile Feedback</strong>
+- Motivated by human manipulation with limited visual feedback, studies Vision-Initialized Manipulation setting where policy uses a single initial RGB image and subsequently operates using only tactile and proprioceptive feedback.
+- Projected fingertip positions and tactile measurements into the initial camera frame to construct image-aligned fingertip-depth and tactile-saliency representations, enabling fusion of temporally mismatched sensory inputs.
+- Designed an auxiliary current-image reconstruction objective, weighted by temporally aggregated fingertip occupancy, to emphasize interaction-relevant regions during representation learning.
+- Evaluated the method on four simulated manipulation tasks and a real-world bottle-liftup task, achieving a 29% relative improvement in mean success rate over imitation-learning baselines under the same visual constraint and approaching the performance of policies with updated vision on selected tasks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/beng_thesis.gif' alt="sym" width="150%"></div></div>
-
-
 
 <div class='paper-box-text' markdown="1">
 <strong>Research on Reward Model in Real-World Robot Reinforcement Learning</strong>
@@ -61,7 +72,7 @@ pick-and-place task
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/hand.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/hand.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>Force Control of an Under-actuated Exoskeleton</strong>
 - Welding and assembling of magnetic encoder and exo-skeleton.
@@ -78,7 +89,7 @@ pick-and-place task
 - I tackled demo tasks in OpenAI Gym environments, including Cartpole, LunarLander, and Fetch-Reach. I implemented several classic RL algorithms, such as Q-learning, DQN, Policy Gradient (REINFORCE), Actor-Critic (A2C, SAC), DDPG, and more. Additionally, I analyzed the performance of these algorithms.
 - Through this project, I gained hands-on experience with Pytorch and Numpy, while also learning to identify common bugs and pitfalls in RL algorithm implementation.
 </div>
-</div>
+</div> -->
 
 
 <!-- # 💻 Projects
