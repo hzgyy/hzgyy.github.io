@@ -21,8 +21,22 @@ My name is Yiyang Ge. I am a first-year Master Student in Mechanical Engineering
 My research interests center on robot learning and dexterous manipulation. I have explored these areas from two complementary perspectives: visuotactile perception for manipulation, and reinforcement learning for improving policies on real robots. My long-term goal is to build robotic agents with human-level dexterity.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra_result.gif' alt="sym" width="150%"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='relational_dexterity.png' alt="sym" width="150%"></div></div>
+
+
+<div class='paper-box-text' markdown="1">
+<strong>Vision-Initialized Manipulation with Image-Aligned Proprio-Tactile Feedback</strong>
+- Submitted to ICRA 2027
+- Motivated by human manipulation with limited visual feedback, studies Vision-Initialized Manipulation setting where policy uses a single initial RGB image and subsequently operates using only tactile and proprioceptive feedback.
+- Projected fingertip positions and tactile measurements into the initial camera frame to construct image-aligned fingertip-depth and tactile-saliency representations, enabling fusion of temporally mismatched sensory inputs.
+- Designed an auxiliary current-image reconstruction objective, weighted by temporally aggregated fingertip occupancy, to emphasize interaction-relevant regions during representation learning.
+- Evaluated the method on four simulated manipulation tasks and a real-world bottle-liftup task, achieving a 29% relative improvement in mean success rate over imitation-learning baselines under the same visual constraint and approaching the performance of policies with updated vision on selected tasks.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/relational_dexterity.png' alt="sym" width="150%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 <strong>Relational Dexterity: Synergy-Constrained Policy Learning from
@@ -33,18 +47,7 @@ Human Hand Demonstrations</strong>
 
 
 # 📝 Projects
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icra_result.gif' alt="sym" width="150%"></div></div>
 
-
-
-<div class='paper-box-text' markdown="1">
-<strong>Vision-Initialized Manipulation with Image-Aligned Proprio-Tactile Feedback</strong>
-- Motivated by human manipulation with limited visual feedback, studies Vision-Initialized Manipulation setting where policy uses a single initial RGB image and subsequently operates using only tactile and proprioceptive feedback.
-- Projected fingertip positions and tactile measurements into the initial camera frame to construct image-aligned fingertip-depth and tactile-saliency representations, enabling fusion of temporally mismatched sensory inputs.
-- Designed an auxiliary current-image reconstruction objective, weighted by temporally aggregated fingertip occupancy, to emphasize interaction-relevant regions during representation learning.
-- Evaluated the method on four simulated manipulation tasks and a real-world bottle-liftup task, achieving a 29% relative improvement in mean success rate over imitation-learning baselines under the same visual constraint and approaching the performance of policies with updated vision on selected tasks.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/beng_thesis.gif' alt="sym" width="150%"></div></div>
 
