@@ -18,14 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 My name is Yiyang Ge. I am a first-year Master Student in Mechanical Engineering at University of Washington.
 
-My research focuses on robot learning, with an emphasis on reinforcement learning. My long-term goal is to maximize the potential of learning-based methods in robotics — particularly their ability to generalize and adapt easily to new tasks.
+My research interests center on robot learning and dexterous manipulation. I have explored these areas from two complementary perspectives: visuotactile perception for manipulation, and reinforcement learning for improving policies on real robots. My long-term goal is to build robotic agents with human-level dexterity.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS,2026</div><img src='relational_dexterity.png' alt="sym" width="100%"></div></div>
-Relational Dexterity: Synergy-Constrained Policy Learning from
-Human Hand Demonstrations
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='relational_dexterity.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
+<strong>Relational Dexterity: Synergy-Constrained Policy Learning from
+Human Hand Demonstrations</strong>
+- Accpted at IROS 2026
+</div>
+</div>
 
 
 # 📝 Projects
