@@ -16,14 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Yiyang Ge. I am a senior student in Zhejiang University majoring in Automation. 
+My name is Yiyang Ge. I am a first-year Master Student in Mechanical Engineering at University of Washington.
 
 My research focuses on robot learning, with an emphasis on reinforcement learning. My long-term goal is to maximize the potential of learning-based methods in robotics — particularly their ability to generalize and adapt easily to new tasks.
 
-<!-- # 📝 Publications 
+# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS,2026</div><img src='relational_dexterity.png' alt="sym" width="100%"></div></div>
+Relational Dexterity: Synergy-Constrained Policy Learning from
+Human Hand Demonstrations
+<div class='paper-box-text' markdown="1">
+
+
 # 📝 Projects
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/icra_result.gif' alt="sym" width="150%"></div></div>
 
