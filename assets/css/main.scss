@@ -66,6 +66,41 @@
         max-width: 100%;
         order: 1;
     }
+
+    .project-description {
+        margin-top: 0.5em;
+
+        > :first-child {
+            margin-top: 0;
+        }
+
+        > :last-child {
+            margin-bottom: 0;
+        }
+
+        li {
+            margin-bottom: 0;
+        }
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .project-description {
+            max-height: 3em;
+            overflow: hidden;
+            transition: max-height 0.4s ease;
+        }
+
+        &:hover .project-description,
+        .project-description:focus {
+            max-height: 40rem;
+        }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .project-description {
+            transition: none;
+        }
+    }
     
     @include breakpoint($medium) {
         .paper-box-image{

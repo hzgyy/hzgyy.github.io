@@ -29,7 +29,14 @@ My research interests center on robot learning and dexterous manipulation. I hav
 <strong>Vision-Initialized Manipulation with Image-Aligned Proprio-Tactile Feedback</strong><br>
 <strong>Yiyang Ge</strong>, Sihan Bai, Ke Jin, Binghen Zhang, Siyun Wang, Qi Ye.<br>
 - Submitted to ICRA 2027
-- Studied Vision-Initialized Manipulation setting where policy uses a single initial image and subsequently operates using only tactile and proprioceptive feedback. Developed a method projecting fingertip positions and tactile measurements into the initial camera frame to construct image-aligned fingertip-depth and tactile-saliency representations. 
+
+<div class="project-description" markdown="1" tabindex="0">
+
+- Studied <strong>Vision-Initialized Manipulation</strong> setting where policy uses a single initial image and subsequently operates using only tactile and proprioceptive feedback. 
+- Projected fingertip positions and tactile measurements into the initial camera frame to construct <strong>image-aligned</strong> fingertip-depth and tactile-saliency representations, enabling fusion of temporally mismatched sensory inputs.
+- Designed an auxiliary current-image reconstruction objective, weighted by <strong>temporally aggregated fingertip occupancy</strong>, to emphasize interaction-relevant regions during representation learning.
+- Evaluated the method on four simulated manipulation tasks and a real-world bottle-liftup task, achieving a 29% relative improvement in mean success rate over imitation-learning baselines under the same visual constraint and approaching the performance of policies with updated vision on selected tasks.
+</div>
 </div>
 </div>
 
@@ -38,9 +45,15 @@ My research interests center on robot learning and dexterous manipulation. I hav
 
 <div class='paper-box-text' markdown="1">
 <strong>Relational Dexterity: Transferring Human Dexterity Via Relational Geometric Prior</strong><br>
-Jiaying Chen, Bingheng Zhang, Qingtao Liu, <strong>Yiyang Ge</strong>,Wenzhe Ouyang, Anjun Chen, and Qi Ye.
+Jiaying Chen, Bingheng Zhang, Qingtao Liu, <strong>Yiyang Ge</strong>,Wenzhe Ouyang, Anjun Chen, and Qi Ye.<br>
 - Accpted at IROS 2026
-- Investigated retargeting human hand motion-capture data into task-feasible trajectories for dexterous robot hands by reinforcement learning with hand geometric prior. Reproduced and evaluated the ManipTrans baseline, conducted comparative experiments, and contributed to method refinement.
+
+<div class="project-description" markdown="1" tabindex="0">
+
+- Investigated retargeting human hand motion-capture data into task-feasible trajectories for dexterous robot hands by reinforcement learning with hand geometric prior. 
+- Reproduced and evaluated the ManipTrans baseline, conducted comparative experiments, and contributed to method refinement.
+
+</div>
 </div>
 </div>
 
@@ -48,17 +61,19 @@ Jiaying Chen, Bingheng Zhang, Qingtao Liu, <strong>Yiyang Ge</strong>,Wenzhe Ouy
 # 📝 Projects
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/beng_thesis.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/beng_thesis.gif' alt="sym" width="80%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 <strong>Research on Reward Model in Real-World Robot Reinforcement Learning</strong>
+
+<div class="project-description" markdown="1" tabindex="0">
+
 - Investigated sample-efficient offline robot reinforcement learning using learned visual reward functions.
-- Fine-tuned a pretrained Valine-Implicit Pretraining(VIP) model with a small set of demonstrations to esti-
-mate task rewards.
-- Integrated the learned reward model with Reward-Weighted Regression (RWR) to enable offline policy
-improvement without manually designed rewards.
-- Evaluated the approach in ManiSkill and deployed it on an AgileX Piper robot arm for a real-world cube
-pick-and-place task
+- Fine-tuned a pretrained Valine-Implicit Pretraining(VIP) model with a small set of demonstrations to estimate task rewards.
+- Integrated the learned reward model with Reward-Weighted Regression (RWR) to enable offline policy improvement without manually designed rewards.
+- Evaluated the approach in ManiSkill and deployed it on an AgileX Piper robot arm for a real-world cube pick-and-place task.
+
+</div>
 </div>
 </div>
 
@@ -67,18 +82,28 @@ pick-and-place task
 
 <div class='paper-box-text' markdown="1">
 <strong>A FiLM based Multi-task Reinforecement Learning</strong>
+
+<div class="project-description" markdown="1" tabindex="0">
+
 - This project was conducted as part of the course CS 4756: Robot Learning at Cornell University.
 - Integrated a Feature-wise Linear Modulation (FiLM) layer into a multi-task RL model, allowing the task encoding to exert more direct control over the network.
 - Observed that the FiLM-enabled model outperformed the vanilla multi-task learning baseline, which only concatenated a one-hot task encoding to the input.
+
+</div>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/drone.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong>Quadropter Building and Autonomous Hovering</strong>
+
+<div class="project-description" markdown="1" tabindex="0">
+
 - Build a quadrotor and its controller from zero, and automatically hover it under motion capture system
 - Implementing basic cascaded PID controller and SE(3) controller.
 - Practice hardware, PCB design and assembling.
+
+</div>
 </div>
 </div>
 
@@ -116,18 +141,20 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 
 
 # 📖 Educations
-- *2022.09 - now*, Zhejiang University, Junior, Major: Automation 
+- *2026.09 - now*, University of Washington, Master, Major: Mechanical Engineering
+- *2022.09 - 2026.6*, Zhejiang University, Junior, Major: Automation 
 - *2025.01 - 2025.05*, Cornell University, Exchange student, Major: ECE
 
 # 🎖 Honors and Awards
+- *2026* Outstanding Graduate of Zhejiang University
 - *2023,2025* Second Prize Scholarship of Zhejiang University
-- *2023.12* Second Prize of Theoretical Physics Competition for University Students in Zhejiang Province
-- *2024.04* First Prize in Zhejiang University Robot Competition (Transport Vehicle Track) 
+<!-- - *2023.12* Second Prize of Theoretical Physics Competition for University Students in Zhejiang Province
+- *2024.04* First Prize in Zhejiang University Robot Competition (Transport Vehicle Track)  -->
 
 
-# 🔥 Hobbies
+<!-- # 🔥 Hobbies
 - Soccer
-- Badminton
+- Badminton -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
