@@ -141,9 +141,9 @@ This is the course projects of Cornell CS4756 robot learning and CS4789 Introduc
 
 
 # 📖 Educations
-- *2026.09 - now*, University of Washington, Master, Major: Mechanical Engineering
-- *2022.09 - 2026.6*, Zhejiang University, Junior, Major: Automation 
-- *2025.01 - 2025.05*, Cornell University, Exchange student, Major: ECE
+- *2026.09 - now*, University of Washington,Seattle. Master, Major: Mechanical Engineering
+- *2022.09 - 2026.6*, Zhejiang University. Junior, Major: Automation 
+- *2025.01 - 2025.05*, Cornell University. Exchange student, Major: ECE
 
 # 🎖 Honors and Awards
 - *2026* Outstanding Graduate of Zhejiang University
